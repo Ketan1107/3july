@@ -21,9 +21,9 @@ attributes=> <opening-tag   attributes-name="value">
     <li>mango</li>
  </ul> 
  <img src="car image.jpg" alt="car images">  
- <h1 hello </h1>
+ <h1>hello</h1>  
 
- <ol type ="1" </ol>
+ <ol type ="1"> </ol>
 
  <video src="dog video.mp4"width="500px"controls></video>
  <br>
@@ -62,7 +62,7 @@ attributes=> <opening-tag   attributes-name="value">
 
 
  </form>
- <table border="1" align="center" cellspacing="10px" cellpadding="10px"
+ <table border="1" align="center" cellspacing="10px" cellpadding="10px">
  <tr>
     <td>roll no</td>
     <td>name</td>
@@ -100,13 +100,14 @@ attributes=> <opening-tag   attributes-name="value">
  load : <meter low="600" high="80" min="0" max="100" value="15" optimum="50">
    75%</meter>
    <br> <br>
-   cooling <progress value="40" max="100"
-</progress>
+   cooling <progress value="40" max="100"></progress>
+ 
 <br> <br>
 <time datetime="4-07-2025">4-07-2025</time>
 <br> <br>
 <abbr title="information tech">IT</abbr>
-</body>
+<p>hello</p>
+
 
  
 
